@@ -4,7 +4,7 @@
 <!-- page header -->
 <br/>
 <div align="center">
-    <h2 align="center">SYnPath - Decisions</h2>
+    <h2 align="center">SYnPath - Decisions: Hackathon 1 Branch </h2>
     <h3 align="center">Data Science Team, Data & Analytics (D&A)</h3>
     <p align="center">
         This project is exploration only, and should not be relied upon. 
